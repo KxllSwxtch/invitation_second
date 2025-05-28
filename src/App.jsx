@@ -16,8 +16,8 @@ const MainPage = () => (
 		<SaveTheDateSection />
 		<TimingSection />
 		<LocationSection />
-		{/* <DressCodeSection /> */}
-		{/* <DetailsSection /> */}
+		<DressCodeSection />
+		<DetailsSection />
 		<RSVPForm />
 	</>
 )
