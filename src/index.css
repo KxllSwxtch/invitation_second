@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@font-face {
+	font-family: 'PassionsConflict';
+	src: url('/fonts/PassionsConflictRUS-Regular.otf');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Involve';
+	src: url('/fonts/Involve-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}
